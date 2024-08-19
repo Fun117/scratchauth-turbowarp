@@ -1,0 +1,8 @@
+const supabase_config = {
+  PUBLIC_URL: "PROJECT_PUBLIC_URL",
+  PUBLIC_ANON_KEY: "PROJECT_PUBLIC_ANON_KEY",
+  expiration: 3,
+  codeLength: 8,
+};
+
+module.exports = supabase_config;
